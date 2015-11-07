@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ByBuy</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="search_submit_button">GO</string>
+    <string name="get_it_second_hand">GET IT SECOND HAND</string>
+    <string name="title_activity_main">ByBuy</string>
+    <string name="facebook_app_id">183538098652385</string>
+</resources>
