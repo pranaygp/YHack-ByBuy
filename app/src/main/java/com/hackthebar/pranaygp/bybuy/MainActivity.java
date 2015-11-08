@@ -1,5 +1,6 @@
 package com.hackthebar.pranaygp.bybuy;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
@@ -16,7 +17,7 @@ import com.facebook.appevents.AppEventsLogger;
 import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
 
-public class MainActivity extends ActionBarActivity {
+public class MainActivity extends Activity {
 
 
     private LoginButton loginButton;
